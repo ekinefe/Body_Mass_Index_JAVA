@@ -1,0 +1,10 @@
+In this project, we will calculate your
+body mass index. We will use a very
+simple formula for this. You can find
+this formula below.
+
+Body Mass Index formula: KG/M^2
+
+To briefly explain the formula, it is
+your mass divided by the square of your
+height.
